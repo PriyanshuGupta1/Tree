@@ -1,3 +1,5 @@
+//here for calculation of diameter of tree the total number of nodes in the path is being calculated
+// if the question requires the no of edges instead of nodes use diameter=max(diameter,lh+rh);
 #include <iostream>
 using namespace std;
 struct node 
